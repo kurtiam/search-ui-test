@@ -1,0 +1,35 @@
+{
+  "engineName": "help-nextar-com",
+  "endpointBase": "https://poc-test-help-nextar.ent.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-q5puerduky3rwfxypfewed2a",
+  "resultFields": [
+    "url_path_dir3",
+    "last_crawled_at",
+    "additional_urls",
+    "body_content",
+    "domains",
+    "title",
+    "meta_keywords",
+    "body",
+    "url",
+    "sections",
+    "url_scheme",
+    "meta_description",
+    "headings",
+    "links",
+    "url_port",
+    "url_host",
+    "url_path_dir2",
+    "url_path",
+    "url_path_dir1",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ],
+  "titleField": "title",
+  "urlField": "url"
+}
